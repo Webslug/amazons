@@ -1,4 +1,4 @@
-	name="Return of the Amazonians 3.1b"
+	name="Return of the Amazonians"
 	path="mod/amazonreturn3.zip"
 	picture="Amareturn.jpg"
 }
